@@ -1,4 +1,5 @@
-# Backup of external dependencies for Processeditor (see https://github.com/frapu78/processeditor).
+# Backup of external dependencies for Processeditor 
+- (see https://github.com/frapu78/processeditor).
 
 * Apache Commons Collection 4.2 (Apache License 2.0), see, https://commons.apache.org/proper/commons-collections/
 * Apache Log4J (Apache License 2.0), see https://logging.apache.org/log4j/1.2/
